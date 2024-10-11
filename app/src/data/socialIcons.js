@@ -14,7 +14,7 @@ const socialIcons = [
   {
     name: "Github",
     icon: "/sociaux/github.svg",
-    link: "https://github.com/Roms-Her",
+    link: "https://github.com/DotRoms",
     alt: "Logo Github",
   },
 ];

@@ -17,7 +17,7 @@ const projects = [
     text2:
       "La sécurité est un point important de notre application, c'est pourquoi nous avons choisi de mettre l'accent sur celle-ci. Nous avons développé des algorithmes de calcul de performance pour les actifs financiers détenus par les utilisateurs. Les données des actifs sont mises à jour automatiquement via un CRON que nous avons mis en place, lequel fait appel à différentes API externes pour insérer le prix des actifs à certains moments de la journée. Aujourd'hui, nous continuons d'améliorer le contenu de Gestinvest et de le maintenir en ligne par passion pour ce projet.",
     bio: "Application de gestion de portefeuille d'actifs financiers (SaaS). j'ai occupé le poste de Product Owner et de développeur fullstack sur ce projet.",
-    github: "https://github.com/Roms-Her/Gestinvest-back",
+    github: "https://github.com/DotRoms/Gestinvest-back",
   },
   {
     name: "Roms - Portfolio",
@@ -30,7 +30,7 @@ const projects = [
       "Ce site vitrine est d'abord réalisé avec Vue.js et TailwindCSS, puis recodé avec une technologie plus avancée : Next.js, basé sur React. Il est hébergé sur Vercel. Pour rendre le site adaptable à l'ajout éventuel d'une base de données, j'ai opté pour un traitement de données entièrement dynamique. Grâce à Next.js, le site est optimisé pour le SEO grâce à son rendu SSR.",
     bio: "Portfolio personnel, mise en avant de mes compétences et de mes projets professionels.",
     link: "https://romain-hernandez.com/",
-    github: "https://github.com/Roms-Her/Portfolio",
+    github: "https://github.com/DotRoms/Portfolio",
 
   },
   {
@@ -44,7 +44,7 @@ const projects = [
       "Le site est réalisé sous Node.js avec le framework React et la surcouche Next.js. De cette manière, le traitement des données SSR (Server-Side Rendering) permet un référencement optimal et un temps de chargement inital plus rapide. Le site est hébergé sur Vercel. J'ai pris la décision d'utiliser TailwindCSS pour la rapidité de développement et la facilité de maintenance. Le site web ne contient aucune base de données, mais j'ai réalisé le code source de manière à ce que les futures données extraites de la BDD puissent être intégrées facilement.",
     bio: "Site web du club de tennis de table T.T. Farguais. J'ai occupé le poste de développeur fullstack sur ce projet.",
     link: "https://ttfarguais.fr/",
-    github: "https://github.com/Roms-Her/TTFarguais",
+    github: "https://github.com/DotRoms/TTFarguais",
 
   },
   {
@@ -57,7 +57,7 @@ const projects = [
     text2:"L'application est réalisée avec Node.js, le framework React et la surcouche Next.js. Le site est hébergé sur Vercel. J'ai pris la décision d'utiliser TailwindCSS pour la rapidité de développement et la facilité de maintenance. Les données utilisées sont extraites de Weather API, une API dédiée à la météo. De ce fait, l'application web ne contient aucune base de données.",
     bio: "Application météo. Projet a but pédagogique pour renforcer mes compétences en développement web.",
     link: "https://weather-beryl-one.vercel.app/",
-    github: "https://github.com/Roms-Her/Weather",
+    github: "https://github.com/DotRoms/Weather",
 
   },
   {
@@ -69,7 +69,7 @@ const projects = [
     text: "Blogart est un blog personnel qui me permetra de partager des articles sur des sujets touchant a l'art. Ce projet est en cours de développement.",
     text2:"L'application est réalisée avec Node.js, le framework React et la surcouche Next.js. J'ai pris la décision d'utiliser TailwindCSS pour la rapidité de développement et la facilité de maintenance. Le site web contiendra une base de données complète qui me permettra de stocker les informations relatives à chaque blog, notamment les commentaires des futurs utilisateurs.",
     bio: "Blog personnel. Projet en cours de développement.",
-    github: "https://github.com/Roms-Her/Gestinvest-back",
+    github: "https://github.com/DotRoms/Gestinvest-back",
 
     // link: "https://meteodou.vercel.app/",
     onDeveloppement: true,
@@ -84,7 +84,7 @@ const projects = [
     text2:"L'application est réalisée avec Node.js, le framework React et la surcouche Next.js. C'est un projet open source qui évolura au fil du temps. Des test techniques sont en cours de développement pour garantir la qualité du code.",
     bio: "Application de conversion d'unités de mesure. Projet open source en production.",
     link: "https://xpress-convert.vercel.app/",
-    github: "https://github.com/Roms-Her/xpress-convert",
+    github: "https://github.com/DotRoms/xpress-convert",
 
     onDeveloppement: true,
   },

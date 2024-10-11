@@ -16,9 +16,9 @@ export default function Index() {
           <IllustatrionImage width={500} height={200} />
         </div>
         <div className="md:pr-8">
-          <p className="mb-2 text-lg md:mb-4 md:text-xl 2xl:text-2xl ">
+          <p className="mb-2 text-lg md:mb-4 md:text-xl 2xl:text-2xl">
             Bonjour je suis{" "}
-            <strong className="text-orange-500">Romain Hernandez</strong>,
+            <strong className="text-orange-500">Romain Hernandez</strong> alias <strong className="text-orange-500">DotRoms</strong>,
           </p>
           <h1
             className={` mb-8 leading-none max-w-xl 2xl:max-w-2xl font-bold  text-5xl md:text-6xl lg:text-7xl ${orbitron.className}`}

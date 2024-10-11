@@ -11,9 +11,9 @@ const play = Play({ subsets: ["latin"], weight: "400" });
 const orbitron = Orbitron({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
-  title: "Roms - Développeur fullstack",
+  title: "DotRoms - Développeur fullstack",
   description:
-    "Bienvenue sur mon portfolio. Je suis développeur web et web mobile, je vous invite à découvrir mes projets et mes compétences.",
+    "Bienvenue sur mon portfolio. Je suis DotRoms, de mon vrai nom Hernandez Romain, et je suis développeur fullstack. Découvrez mes projets, mes compétences et mon univers.",
 };
 
 export default function RootLayout({ children }) {

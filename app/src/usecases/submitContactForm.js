@@ -21,16 +21,16 @@ export class SubmitContactForm {
   async execute(formData, setFormData) {
     try {
       const errorMessage = this.validateFormData(formData);
-      console.log("errorMessage", errorMessage);
+      
       if (errorMessage) {
         toast.error(errorMessage);
         return;
       }
 
       // Envoi du formulaire
-      console.log("Données à soumettre:", formData);
+      
       const res = await this.apiService.post("/api/contact", formData);
-      console.log("Réponse de l'API:", res);
+      
 
       if (!res.ok) {
         toast.error("Erreur lors de la soumission du formulaire !");
